@@ -12,14 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Domain\Enums\" />
-    <Folder Include="DTOs\Customers\" />
     <Folder Include="DTOs\Claims\" />
     <Folder Include="DTOs\Policies\" />
-    <Folder Include="Errors\" />
-    <Folder Include="Repositories\Interfaces\" />
-    <Folder Include="Services\Interfaces\" />
   </ItemGroup>
 
 </Project>
